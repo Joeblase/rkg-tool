@@ -1,0 +1,8 @@
+# Maven Build Directory
+target
+
+# Test files
+*.rkg
+*.rksys
+*.mae
+*.miigx
